@@ -15,15 +15,8 @@ Automated UI testing project for the **MyDemoApp Android** application using **A
 
 ---
 
-project-root/
-├── src/
-│ ├── main/java/utility/DriverManager.java # Appium driver setup
-│ ├── test/java/features/ # Feature files
-│ ├── test/java/pages/ # Page Object classes
-│ ├── test/java/stepDefinition/ # Step Definitions
-│ └── test/java/runner/TestRunner.java # Cucumber test runner
-├── pom.xml # Maven config
-└── README.md # This documentation
+![image](https://github.com/user-attachments/assets/af385619-1bdf-402a-ac5e-334fe52b4297)
+
 
 
 Step:
